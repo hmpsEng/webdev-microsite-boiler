@@ -1,1 +1,3 @@
 .vscode/*
+.src/app/favicon*
+.src/app/settings*
